@@ -1,5 +1,5 @@
-# thalir
-தளிர் - thalir - Tamil AI and ML Resources
+# thulir
+துளிர் - thulir - Tamil AI and ML Resources
 
 # உரிமம்: 
 இந்த நிரல் மூலத்தில் உள்ள அனைத்து வளங்களும் MIT திறமூல உரிமத்தில் பெற்றும் பயன்படுத்தலாம்.
